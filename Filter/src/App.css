@@ -1,0 +1,14 @@
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+input{
+    margin-top: 25px;
+    padding: 10px 25px;
+    border-radius: 15px;
+    border: 1px solid red;
+    outline: none;
+    font-size: 20px;
+}
